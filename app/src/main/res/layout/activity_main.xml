@@ -86,6 +86,7 @@
 
                 </Button>
             </LinearLayout>
+
             <Button
                 android:id="@+id/btnLogin"
                 android:layout_width="250dp"
@@ -97,6 +98,15 @@
                 android:textSize="18sp">
 
             </Button>
+
+            <Button
+                android:id="@+id/button3"
+                android:layout_width="254dp"
+                android:layout_height="50dp"
+                android:onClick="Siguiente"
+                android:text="Registro"
+                android:textSize="18sp" />
+
         </LinearLayout>
 
     </FrameLayout>
