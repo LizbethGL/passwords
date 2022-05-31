@@ -5,10 +5,14 @@
       <map>
         <entry key="..\:/Users/Jacks/AndroidStudioProjects/LogoApp/app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/Users/USUARIO/AndroidStudioProjects/LogoApp/app/src/main/res/drawable/boton_redondo.xml" value="0.197" />
+        <entry key="..\:/Users/USUARIO/AndroidStudioProjects/LogoApp/app/src/main/res/drawable/diseno_bot.xml" value="0.2115" />
         <entry key="..\:/Users/USUARIO/AndroidStudioProjects/LogoApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.197" />
-        <entry key="..\:/Users/USUARIO/AndroidStudioProjects/LogoApp/app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="..\:/Users/USUARIO/AndroidStudioProjects/LogoApp/app/src/main/res/font/lobster.xml" value="0.175" />
+        <entry key="..\:/Users/USUARIO/AndroidStudioProjects/LogoApp/app/src/main/res/font/primary.xml" value="0.234375" />
+        <entry key="..\:/Users/USUARIO/AndroidStudioProjects/LogoApp/app/src/main/res/layout/activity_login.xml" value="0.33" />
         <entry key="..\:/Users/USUARIO/AndroidStudioProjects/LogoApp/app/src/main/res/layout/activity_main.xml" value="0.18" />
         <entry key="..\:/Users/USUARIO/AndroidStudioProjects/LogoApp/app/src/main/res/layout/activity_registro.xml" value="0.25" />
+        <entry key="..\:/Users/USUARIO/AndroidStudioProjects/LogoApp/app/src/main/res/xml/back.xml" value="0.18" />
       </map>
     </option>
   </component>
